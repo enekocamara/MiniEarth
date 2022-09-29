@@ -1,0 +1,25 @@
+skyboxHD
+# define SKBW	15456
+# define SKBH	11592
+# define SKBD	3864
+# define SKBD2	1932
+
+skybox
+# define SKBW	3600
+# define SKBH	2700
+# define SKBD	900
+# define SKBD2	450
+
+cluster
+
+# define SKBW	2048
+# define SKBH	1536
+# define SKBD	512
+# define SKBD2	256
+
+Mars
+
+# define SKBW	8192
+# define SKBH	6144
+# define SKBD	2048
+# define SKBD2	1024
